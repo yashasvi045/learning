@@ -1,9 +1,9 @@
 # 🚀 Learning Programming Languages
 
-Welcome to my GitHub repository where I explore and learn various programming languages! 🖥️📚
+Welcome to my GitHub repository where I explore and learn programming! 🖥️📚
 
 ## 📌 About This Repository
-This repository is a collection of my learning journey across different programming languages. It contains:
+This repository is a collection of my learning journey through programming. It contains:
 - ✅ Code snippets
 - ✅ Small projects
 
