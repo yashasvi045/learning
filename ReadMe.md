@@ -13,4 +13,4 @@ Here are some languages I am currently learning:
 - 🌱 C
 
 ## 📂 Folder Structure
-Navigate through the folders and you will find the different code snippets and my practice projects that I was able to learn about and code.
+Navigate through the folders and you will find the different code snippets and my practice projects that I learnt about and coded.
