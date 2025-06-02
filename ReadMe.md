@@ -1,4 +1,4 @@
-# 🚀 Learning Programming Languages
+# 🚀 Learning Programming
 
 Welcome to my GitHub repository where I explore and learn programming! 🖥️📚
 
@@ -7,8 +7,7 @@ This repository is a collection of my learning journey through programming. It c
 - ✅ Code snippets
 - ✅ Small projects
 
-## 🛠️ Languages Covered
-Here are some languages I am currently learning:
+## 🛠️ Tech-stack Learned:
 - 🐍 Python
 - 🌱 C
 
