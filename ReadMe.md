@@ -10,6 +10,7 @@ This repository is a collection of my learning journey through programming. It c
 ## 🛠️ Tech-stack Learned:
 - 🐍 Python
 - 🌱 C
+- 🪢 HTML, CSS & Bootstrap
 
 ## 📂 Folder Structure
 Navigate through the folders and you will find the different code snippets and my practice projects that I learnt about and coded.
