@@ -7,7 +7,7 @@ This repository is a collection of my learning journey through programming. It c
 - Code snippets
 - Small projects
 
-## Tech-stack Learned:
+## Tech-Stack Learned:
 - Python
 - C
 - HTML, CSS & Bootstrap
