@@ -1,19 +1,23 @@
 #include <stdio.h>
 int main(void) {
-    float price[3];
+    int i;
+    printf("Enter the number of items you purchased: ");
+    scanf("%d", &i);
     
-    printf("Enter the price of the first item: ");
-    scanf("%f", &price[0]);
+    float price[i];
     
-    printf("Enter the price of the second item: ");
-    scanf("%f", &price[1]);
+    for (int n = 0; n < i; n++) {
+        printf("Enter the price of the item: ");
+        scanf("%f", &price[n]);
+    }
     
-    printf("Enter the price of the third item: ");
-    scanf("%f", &price[2]);
+    float total = 0;
     
-    float total = price[0] + price[1] + price[2];
+    for (int n = 0; n < i; n++) {
+        total += price[n];
+    }
+    
     float tax_gst = total * 0.18;
-    
     float final_bill = total + tax_gst;
     printf("The final amount to be paid is %f with tax of %f.", final_bill, tax_gst);
     
