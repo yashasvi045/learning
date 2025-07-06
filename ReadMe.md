@@ -1,9 +1,9 @@
 # Learning Programming
 
-Welcome to my GitHub repository where I explore and learn programming!
+Welcome to my GitHub repository where I show my progress learning programming.
 
 ## About This Repository
-This repository is a collection of my learning journey through programming. It contains:
+This repository is a collection of my learning journey. It contains:
 - Code snippets
 - Small projects
 
@@ -13,4 +13,4 @@ This repository is a collection of my learning journey through programming. It c
 - HTML, CSS & Bootstrap
 
 ## Folder Structure
-Navigate through the folders and you will find the different code snippets and my practice projects that I learnt about and coded.
+Navigate through the folders and you will find the different code snippets and my practice projects.
