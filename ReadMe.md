@@ -1,6 +1,6 @@
-# Learning Programming
+# Learning
 
-Welcome to my GitHub repository where I show my progress learning programming.
+Welcome to my GitHub repository where I show my progress learning.
 
 ## About This Repository
 This repository is a collection of my learning journey. It contains:
